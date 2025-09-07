@@ -1,0 +1,6 @@
+numpy
+pandas
+scanpy
+scvi  
+diffxpy
+gseapy
